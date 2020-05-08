@@ -1,6 +1,8 @@
 #include "txtgen/nodes/prihdr/any.h"
 #include "txtgen/nodes/prihdr/condition.h"
 #include "txtgen/nodes/prihdr/entity.h"
+#include "txtgen/nodes/prihdr/list.h"
 #include "txtgen/nodes/prihdr/literal.h"
 #include "txtgen/nodes/prihdr/node.h"
 #include "txtgen/nodes/prihdr/optional.h"
+#include "txtgen/nodes/prihdr/repeat.h"
